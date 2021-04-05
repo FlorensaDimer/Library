@@ -1,0 +1,14 @@
+body{
+    background-color: #F2E3B6;
+}
+nav{
+    background-color: #593122;
+}
+#logo{
+    width: 30px;
+    height: 30px;
+    margin: 0.1em 0.2em -0.1em 0.1em;
+}
+.sidenav{
+    background-color:#284039;
+}
